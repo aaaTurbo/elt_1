@@ -1,0 +1,12 @@
+{
+  "name": "elt_1",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/benchmark-test.js"
+  },
+  "private": true
+}
